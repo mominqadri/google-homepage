@@ -1,0 +1,1 @@
+Practicing HTML and CSS fundamentals by building a model of the Google homepage.
